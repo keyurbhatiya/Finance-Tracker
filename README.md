@@ -1,6 +1,5 @@
 # Finance-Tracker
 
-# Finance Data Manager
 
 A simple Python project for managing personal finances by adding, viewing, and plotting transactions. The project uses CSV files to store data and provides options to filter transactions based on date ranges, view summaries, and plot income vs expenses over time.
 
